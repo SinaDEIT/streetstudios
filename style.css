@@ -144,11 +144,11 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-top: -20px;
+  margin-top: -25px;
 }
 .img{
-  width: 500px;
-  height: 250px;
+  width: 700px;
+  height: 255px;
 }
 .back{
   display: flow-root;
